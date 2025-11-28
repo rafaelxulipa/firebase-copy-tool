@@ -21,7 +21,6 @@ serviceAccountKey.json
 *.private.json
 *.key.json
 *.credentials.json
-gestor-educacional-react-firebase-adminsdk-2dyn6-6022924f7c.json
 
 # OS files
 .DS_Store
